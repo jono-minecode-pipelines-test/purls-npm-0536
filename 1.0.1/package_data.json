@@ -1,0 +1,83 @@
+{
+    "name": "-ai-code-optimizer-",
+    "version": "1.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ai",
+        "code-optimizer",
+        "performance",
+        "node",
+        "cli",
+        "grok",
+        "openai"
+    ],
+    "author": {
+        "name": "NDDonman"
+    },
+    "license": "ISC",
+    "bin": {
+        "ai-code-optimizer": "bin/ai-code-optimizer.js"
+    },
+    "description": "AI-powered tool to scan and optimize Node.js code for performance.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NDDonman/ai-code-optimizer.git"
+    },
+    "dependencies": {
+        "@types/node": "^25.2.3",
+        "chalk": "^4.1.2",
+        "commander": "^14.0.3",
+        "dotenv": "^16.6.1",
+        "figlet": "^1.10.0",
+        "glob": "^8.1.0",
+        "inquirer": "^8.2.7",
+        "openai": "^6.21.0",
+        "ora": "^5.4.1",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.9.3"
+    },
+    "devDependencies": {
+        "@types/glob": "^8.1.0",
+        "@types/inquirer": "^8.2.12"
+    },
+    "_id": "-ai-code-optimizer-@1.0.1",
+    "gitHead": "a3c0d30c2d366c44d6837ff258ddf8a73c5b5643",
+    "bugs": {
+        "url": "https://github.com/NDDonman/ai-code-optimizer/issues"
+    },
+    "homepage": "https://github.com/NDDonman/ai-code-optimizer#readme",
+    "_nodeVersion": "20.15.0",
+    "_npmVersion": "10.8.1",
+    "dist": {
+        "integrity": "sha512-4a4lulMEbVZL+xqVXQ9GwSIorv9WnGKW7mvIG3w0JdlXmVveiEpO77zqv1S4CEJXOqqCS1fCCGA8uECpquhTwQ==",
+        "shasum": "fa8ff0bd2bebda45db1dbedd410589b10e16077c",
+        "tarball": "https://registry.npmjs.org/-ai-code-optimizer-/-/-ai-code-optimizer--1.0.1.tgz",
+        "fileCount": 10,
+        "unpackedSize": 11822,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEQCID7X5C34oNB64uc7GtnUU4b60DFkzeRcYXftS+eTmLzoAiBEBzqcAWLYnmv4rSzJmO8/v5/GNe8saOvPSGtU9SzzgA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "nddonman",
+        "email": "nddonman@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nddonman",
+            "email": "nddonman@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/-ai-code-optimizer-_1.0.1_1770882027698_0.19630561573994654"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,46 @@
+{
+    "name": "0.sql",
+    "version": "1.0.50",
+    "main": "index.ts",
+    "license": "MIT",
+    "peerDependencies": {
+        "@types/mysql": "^2.15.18",
+        "@types/react": "^17.0.11",
+        "mysql": "2.18.1",
+        "react": "^17.0.2"
+    },
+    "gitHead": "3886acf1ed050bdafa97b1af350bca6827484c3b",
+    "_id": "0.sql@1.0.50",
+    "_nodeVersion": "14.16.0",
+    "_npmVersion": "lerna/4.0.0/node@v14.16.0+x64 (win32)",
+    "dist": {
+        "integrity": "sha512-28hdPDs7/7aUN5sLtjTRyClMjBpn/ZiuoYtzdTS14Zr8mdAeuCQE4P42/Qk0ltQ2kJcTTbbLADqnQauHDnLCBQ==",
+        "shasum": "983ccaa596fc843502e5af22569c99022503c489",
+        "tarball": "https://registry.npmjs.org/0.sql/-/0.sql-1.0.50.tgz",
+        "fileCount": 10,
+        "unpackedSize": 16328,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgze5gCRA9TVsSAnZWagAAeFgP/0ozP3HaGwsEOlLcv/MW\nPX4pXRA7ZBhnTt1Sv4NP/mKs1fMHRzIoQiGc+0uP1aQ4NgD/X2yHCno3FxiQ\n1WhQTYgZVeg18PWPxXmh0eg4a9mJlaxxhnEwLNNG04QzPyAPsKPtoQrGnSsz\n6zX2NFdygvkRMyR/qNuM6hO9uylVPHKCvBSynYZzb57xKpG9ZIzYE4Qc08Sg\nnYNmQ5ZlnZVasmtgf/Wu8Vtk2PXzB0lM4dnlTVVnhfdqCuaM7R0cClz9Xxas\nNWCN+lM5ePlzZkUh9UWPP5WxpC2EMpWPgh+zAi3JXS/zX46gw7VvL+az7qVv\ngBeo/XM4qRPrIhBMEWfiWw9TU+/CbDnSnFSZy5Rl93R1z/LQiXE/wtzP3eRi\nm5qvkqpRLWq8UNeYpr43Mt9LCMwza/tyPgBOIO2CA9uQvtWeytuZDGTHMncb\nmkzhfMC9ERq8hiGGNhz3xlnF6cojkaCtpnjcivq/6eqD0Dof9mWf+a/rJr+P\nazdafy2BBExea8/jqH1fgrHE1Q8YhNgSYIxm57O/naXYisK4jmaEdC6EA2zr\nMQosAjjgTEhJQRZZemgOEED62YREddo9PrRa40FxaHTjF6HzraXm2OJrKaTR\ned18onxzkiRFC2ChW5yRuhY+yFmwjamEbDe+vK5BOXtbh69mVex72YOQzC9f\nu2sy\r\n=p4Jh\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCjxJ9+f6EipfJ71W1xicbClvkL4KGySgr/myxJce0aZgIgQaZenIXK3hJcNeMpN8r63gd4IIJO7vpN4AF14ToOeK0="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "kitchens",
+        "email": "kitchens@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kitchens",
+            "email": "kitchens@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.sql_1.0.50_1624108640353_0.20151056798341171"
+    },
+    "_hasShrinkwrap": false
+}
